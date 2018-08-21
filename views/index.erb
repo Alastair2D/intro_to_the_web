@@ -2,4 +2,7 @@
   <img src='http://bit.ly/1eze8aE'>
 </div>
 
-<h1> My name is Alastair <%= @random_name %> </h1>
+<% if @name %>
+<h1> My name is <%= @name %> </h1>
+<% end %>
+
