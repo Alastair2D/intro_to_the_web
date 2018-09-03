@@ -5,8 +5,8 @@
 - The relationship between a client and a server
 - How HTTP is used to send information over the web
 - RESTful APIs
-- The request/response cycle
 - Web templating with HTML/CSS
+- The request/response cycle
 
 ![HTTP Request-Response Cycle](https://github.com/Alastair2D/bookmark_manager/blob/master/images/HTTP%20Request%20Response%20%2B%20MVC.png)
 
