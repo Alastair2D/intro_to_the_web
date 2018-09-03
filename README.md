@@ -1,7 +1,5 @@
 # intro_to_the_web 
 
-![HTTP Request-Response Cycle](https://github.com/Alastair2D/bookmark_manager/blob/master/images/HTTP%20Request%20Response%20%2B%20MVC.png)
-
 #### Concepts
 
 - The relationship between a client and a server
@@ -9,6 +7,9 @@
 - RESTful APIs
 - The request/response cycle
 - Web templating with HTML/CSS
+
+![HTTP Request-Response Cycle](https://github.com/Alastair2D/bookmark_manager/blob/master/images/HTTP%20Request%20Response%20%2B%20MVC.png)
+
 
 #### Skills
 
